@@ -1,5 +1,5 @@
 ### Hi there, my name is Gustav 👋
-🌱 I’m currently learning Python, Typescript
+🌱 I’m currently learning Python, Javascript, CSS, HTML
 <!--
 **dgguus/dgguus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
