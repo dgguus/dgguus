@@ -1,6 +1,6 @@
 ### Hi there, my name is Gustav 👋
 🌱 I’m currently learning Python, Javascript, CSS, HTML
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?dgguus={dgguus}" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 <!--
 **dgguus/dgguus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
