@@ -8,9 +8,10 @@ I use this as my daily drivers:<br>
  </a>
  </div>
  
+<div>
 <a href="https://archlinux.org/"</a>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"
-         
+</div>         
     
  
 
