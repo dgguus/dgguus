@@ -5,7 +5,7 @@ I use this as my daily drivers:<br>
 <div>
 <a href="https://linuxmint.com/">
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-    <div>
+    
       <a href="https://archlinux.org/"<a/>/>
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>      
  </a>
