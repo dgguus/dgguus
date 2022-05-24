@@ -1,5 +1,5 @@
 ### Hi there, my name is Gus 👋
-🌱 I’m currently learning ...<br>
+🌱 I’m currently learning: 
 Discrete mathematics, CS introduction, OOP<br>
 ⚡ Fun fact: Splinter cell && Metal Gear Solid nerd<br>
 
